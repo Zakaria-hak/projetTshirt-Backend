@@ -1,0 +1,3 @@
+creer une DB vide avec le nom 'projettshirt'
+excuter mvn install
+aller sur le http://localhost:8080/  pour test si ça fonnction
